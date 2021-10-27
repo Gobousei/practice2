@@ -12,7 +12,7 @@
       </ul>
     </nav>
   </header>
-  <body>
+  <body bgcolor="#CBFFD3">
 
     <p id="text1">
       margin マージンとは、borderボーダーより外枠の余白のことをいいます。</p>
